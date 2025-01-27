@@ -41,6 +41,11 @@ The JavaScript file that manages the application's functionality. It handles use
 ### `imag/`
 Contains all image assets used in the application, such as icons for search, weather conditions, humidity, and wind.
 
+## Screenshots
+
+### Search and Display
+![Search and Display](imag/image.png)
+
 ## Future Improvements
 - Integrate with a weather API to fetch real-time weather data.
 - Add error handling for invalid city inputs.
